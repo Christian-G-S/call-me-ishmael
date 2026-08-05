@@ -8,8 +8,8 @@ ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 permalinks:
   post: "/:year/:month/:day/:slug/"
 
-menu:
-  main:
+# menu:
+#   main:
     # - name: About
     #   url: "/about/"
     # - name: GitHub
