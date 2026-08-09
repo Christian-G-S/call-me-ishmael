@@ -11,7 +11,7 @@ permalinks:
 menu:
   main:
     - name: About
-      url: "/about/"
+      url: "/call-me-ishmael/about/"
     - name: Life
       url: "/call-me-ishmael/life/"
 params:
