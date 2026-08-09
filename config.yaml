@@ -11,9 +11,9 @@ permalinks:
 menu:
   main:
     - name: About
-      url: "/call-me-ishmael/about/"
+      url: "/about/"
     - name: Life
-      url: "/call-me-ishmael/life/"
+      url: "/life/"
 params:
   description: "A website built through Hugo and blogdown."
   highlightjsVersion: "9.12.0"
