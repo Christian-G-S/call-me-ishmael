@@ -13,7 +13,7 @@ menu:
     - name: About
       url: "/about/"
     - name: Life
-      url: "/life/"
+      url: "/call-me-ishmael/life/"
 params:
   description: "A website built through Hugo and blogdown."
   highlightjsVersion: "9.12.0"
