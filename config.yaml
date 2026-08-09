@@ -1,9 +1,10 @@
 publishDir: "docs"
-baseurl: "https://Christian-G-S.github.io/call-me-ishmael/"
+baseurl: "https://call-me-ishmael.github.io/"
 locale: "en-US"
 title: "A Hugo website"
 theme: "hugo-lithium"
-ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+ignoreFiles: ["_cache$"]
+#"\\.Rmd$", "\\.Rmarkdown$", 
 
 permalinks:
   post: "/:year/:month/:day/:slug/"

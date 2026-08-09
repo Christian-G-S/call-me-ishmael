@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on A Hugo website</title>
-		<link>https://Christian-G-S.github.io/call-me-ishmael/tags/</link>
+		<link>https://call-me-ishmael.github.io/tags/</link>
 		<description>Recent content in Tags on A Hugo website</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="https://Christian-G-S.github.io/call-me-ishmael/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://call-me-ishmael.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
