@@ -1,5 +1,5 @@
 publishDir: "docs"
-baseurl: "https://call-me-ishmael.github.io/"
+baseurl: "https://christian-g-s.github.io/call-me-ishmael/"
 locale: "en-US"
 title: "A Hugo website"
 theme: "hugo-lithium"

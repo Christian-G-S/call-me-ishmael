@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on A Hugo website</title>
-		<link>https://call-me-ishmael.github.io/categories/</link>
+		<link>https://christian-g-s.github.io/call-me-ishmael/categories/</link>
 		<description>Recent content in Categories on A Hugo website</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
 		
-			<atom:link href="https://call-me-ishmael.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://christian-g-s.github.io/call-me-ishmael/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>R</title>
-				<link>https://call-me-ishmael.github.io/categories/r/</link>
+				<link>https://christian-g-s.github.io/call-me-ishmael/categories/r/</link>
 				<pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-				<guid>https://call-me-ishmael.github.io/categories/r/</guid>
+				<guid>https://christian-g-s.github.io/call-me-ishmael/categories/r/</guid>
 				<description></description>
 			</item>
 	</channel>
