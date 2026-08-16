@@ -1,0 +1,38 @@
+baseurl = "https://christian-g-s.github.io/call-me-ishmael/"
+title = "Call Me Ishmael"
+theme = "castanet"
+locale = "en-US"
+
+pagination.pagerSize = "9"
+buildFuture = true
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[permalinks]
+  about = "/:contentbasename/"
+  episode = "/:contentbasename/"
+
+[[Menu.Main]]
+  name = "Life"
+  identifier = "life"
+  url = "/blog/life/"
+
+[[Menu.Main]]
+  name = "About"
+  identifier = "about"
+  url = "/about"
+  
+[params]
+  description = "A website built through Hugo and blogdown."
+  custom_css = ["css/custom.css"]
+  
+  [[params.authors]]
+    name = "Ishmael"
+    thumbnail = "images/logo.png"
+    bio = "Author and blogger."
+    twitter = "rstudio"
+    github = "rstudio"
+
