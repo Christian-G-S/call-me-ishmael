@@ -10,6 +10,29 @@
 		
 		
 		
+			<lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+		
 			<atom:link href="https://call-me-ishmael.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Plot</title>
+				<link>https://call-me-ishmael.github.io/tags/plot/</link>
+				<pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+				<guid>https://call-me-ishmael.github.io/tags/plot/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>R Markdown</title>
+				<link>https://call-me-ishmael.github.io/tags/r-markdown/</link>
+				<pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+				<guid>https://call-me-ishmael.github.io/tags/r-markdown/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Regression</title>
+				<link>https://call-me-ishmael.github.io/tags/regression/</link>
+				<pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+				<guid>https://call-me-ishmael.github.io/tags/regression/</guid>
+				<description></description>
+			</item>
 	</channel>
 </rss>
